@@ -1,6 +1,6 @@
 class StudentsInMLOps:
     def __init__(self):
-        self.total_students = 0
+        self.total_students = 1
 
     def enrollStudents(self, num):
         self.total_students += num
